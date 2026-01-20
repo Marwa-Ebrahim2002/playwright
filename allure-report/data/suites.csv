@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","594","outside suite2 @smoke","Google Chrome","2026-01-20","passed","2026-01-20","","pom.spec.ts","",""
+"","671","outside suite @smoke","Google Chrome","2026-01-20","passed","2026-01-20","","pom.spec.ts","",""
